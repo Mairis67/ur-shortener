@@ -1,1 +1,1 @@
-![ Alt text](url-shortener.gif) / ! [](url-shortener.gif)
+![ Alt text](url-shortener.gif) [](url-shortener.gif)
